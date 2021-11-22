@@ -6,7 +6,7 @@
 
 **Gromacs GUI** is a graphical user interface application for Gromacs
 
-[Latest Version 1.20.11](https://github.com/jsmaatta/GromacsGUI)
+[Latest Version 1.21.11](https://github.com/jsmaatta/GromacsGUI)
 
 Features
 --------
@@ -22,4 +22,4 @@ Dependencies
 - [Gromacs](http://www.gromacs.org/)
 - Simple DirectMedia Layer 2
 
-Copyright (c) **Jukka Maatta** 2020
+Copyright (c) **Jukka Maatta** 2021
